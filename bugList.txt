@@ -1,0 +1,4 @@
+1. isEmpty() returns false on empty list
+2. size() returns 1 on empty list (it increments fine, but always returns one more than it should)
+3. removeFront() removes the back element of the list
+4. addBack(T value) multiples calls continues to add the first value added
